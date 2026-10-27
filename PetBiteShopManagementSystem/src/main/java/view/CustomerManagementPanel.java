@@ -16,7 +16,7 @@ public class CustomerManagementPanel extends JPanel {
     private JButton btnAdd;
 
     public CustomerManagementPanel() {
-        // Thiết lập layout và màu nền chuẩn theo AppTheme
+        // Thiết lập layout và màu nền 
         setBackground(AppTheme.MAIN_BG);
         setLayout(new BorderLayout());
         setBorder(BorderFactory.createEmptyBorder(25, 25, 25, 25));
